@@ -1,5 +1,4 @@
-<h1 class= " textcolor= 'red' " > It's a Collaborative project With @imRahul05 and @NitishKDev 
- </h1>
+<h1  style={{color: 'red'}}>It's a Collaborative project With @imRahul05 and @NitishKDev</h1>
 
 
 # React + Vite
