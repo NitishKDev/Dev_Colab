@@ -1,4 +1,4 @@
-# It's a Collaborative project With @imRahul05 , @rahulitme and @NitishKDev
+# It's a Collaborative project With @imRahul05, @rahulitme and @NitishKDev
 
 
 # React + Vite
