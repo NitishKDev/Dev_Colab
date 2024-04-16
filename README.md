@@ -1,4 +1,4 @@
-<h1  style={{color: 'red'}}>It's a Collaborative project With @imRahul05 and @NitishKDev</h1>
+# It's a Collaborative project With @imRahul05 , @rahulitme and @NitishKDev
 
 
 # React + Vite
